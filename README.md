@@ -1,4 +1,5 @@
 ## My Project
+[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/multiview-event-fusion-and-visualization/blob/main/fuse_and_visualize_multiview_impacts.ipynb)
 
 TODO: Fill this README out!
 
